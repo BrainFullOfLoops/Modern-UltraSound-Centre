@@ -20,10 +20,10 @@ export function Home() {
             </div>
 
             <div className='home-p2'>
-                <a href="tel:+917541092929">
+                <a href="tel:+919204865574">
                     <div className='home-call'>Call Now</div>
                 </a>
-                <a href="http://wa.me/917541092929?text=Hello%20I%20would%20like%20to%20book%20an%20appointment%20at%20your%20center" target='_blank'>
+                <a href="http://wa.me/919204865574?text=Hello%20I%20would%20like%20to%20book%20an%20appointment%20at%20your%20center" target='_blank'>
                     <div className='home-what'>WhatsApp Appointment</div>
                 </a>
             </div>
